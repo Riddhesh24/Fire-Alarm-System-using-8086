@@ -1,0 +1,48 @@
+< THE SYMBOL TABLE >  FireAlarmSys.bin  --  emu8086 assembler version: 4.08 
+===================================================================================================
+Name                     	Offset    	Size      	Type      	Segment   
+===================================================================================================
+COUNT                    	00200     	1         	VAR       	(NOSEG)   
+ST1                      	00401     	-1        	LABEL     	(NOSEG)   
+A                        	00426     	-1        	LABEL     	(NOSEG)   
+X1                       	0042B     	-1        	LABEL     	(NOSEG)   
+X2                       	0044B     	-1        	LABEL     	(NOSEG)   
+X21                      	00465     	-1        	LABEL     	(NOSEG)   
+X3                       	00479     	-1        	LABEL     	(NOSEG)   
+X31                      	00497     	-1        	LABEL     	(NOSEG)   
+X4                       	004AB     	-1        	LABEL     	(NOSEG)   
+X41                      	004C7     	-1        	LABEL     	(NOSEG)   
+X5                       	004D3     	-1        	LABEL     	(NOSEG)   
+X6                       	004E0     	-1        	LABEL     	(NOSEG)   
+X99                      	004EA     	-1        	LABEL     	(NOSEG)   
+X7                       	004FF     	-1        	LABEL     	(NOSEG)   
+X71                      	00519     	-1        	LABEL     	(NOSEG)   
+X8                       	0052D     	-1        	LABEL     	(NOSEG)   
+X81                      	0054B     	-1        	LABEL     	(NOSEG)   
+X9                       	0055F     	-1        	LABEL     	(NOSEG)   
+X91                      	0057B     	-1        	LABEL     	(NOSEG)   
+XA                       	00587     	-1        	LABEL     	(NOSEG)   
+X0                       	0058D     	-1        	LABEL     	(NOSEG)   
+T_ISR                    	0058F     	-1        	LABEL     	(NOSEG)   
+Y1                       	0058F     	-1        	LABEL     	(NOSEG)   
+Y2                       	005AF     	-1        	LABEL     	(NOSEG)   
+Y21                      	005C9     	-1        	LABEL     	(NOSEG)   
+Y3                       	005DD     	-1        	LABEL     	(NOSEG)   
+Y31                      	005FB     	-1        	LABEL     	(NOSEG)   
+Y4                       	0060F     	-1        	LABEL     	(NOSEG)   
+Y41                      	0062B     	-1        	LABEL     	(NOSEG)   
+Y5                       	00638     	-1        	LABEL     	(NOSEG)   
+Y6                       	00645     	-1        	LABEL     	(NOSEG)   
+Y99                      	0064F     	-1        	LABEL     	(NOSEG)   
+Y7                       	00664     	-1        	LABEL     	(NOSEG)   
+Y71                      	0067E     	-1        	LABEL     	(NOSEG)   
+Y8                       	00692     	-1        	LABEL     	(NOSEG)   
+Y81                      	006B0     	-1        	LABEL     	(NOSEG)   
+Y9                       	006C4     	-1        	LABEL     	(NOSEG)   
+Y91                      	006E0     	-1        	LABEL     	(NOSEG)   
+YA                       	006EC     	-1        	LABEL     	(NOSEG)   
+Y0                       	006F2     	-1        	LABEL     	(NOSEG)   
+===================================================================================================
+[ 24-04-2019  --  03:55:08 ] 
+< END >
+ 
